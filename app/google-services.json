@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "341510290605",
+    "firebase_url": "https://de-la-notes-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "de-la-notes",
+    "storage_bucket": "de-la-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341510290605:android:639f2faa5d4d42c2d45a24",
+        "android_client_info": {
+          "package_name": "com.example.delado"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBMXSDFtIXo_WTHCYPV0xzbwu4lLVNbZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
